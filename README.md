@@ -3,9 +3,12 @@
 
 
 names = []
+
 phone_numbers = []
 
+
 num = int(input("Enter the no. of repository"))
+
 
 for i in range(num):
     name = input("Enter Name: ")
